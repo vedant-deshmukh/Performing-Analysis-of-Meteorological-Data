@@ -1,6 +1,6 @@
 # Performing-Analysis-of-Meteorological-Data
 <h3><b>Data Analysis of the Meteorological Data</b></h3>
-<h4> This project aims at performing data analysis of Meteorological Dataset and drawing certain conclusions. This project is analyed using various libraries/modules of Python.
+<h4> This project aims at performing data analysis of Meteorological Dataset and drawing certain conclusions. This project is analysed using various libraries/modules of Python.
 <br><br>
 The data was properly cleaned, visualized and analysed using -
 <br> Numpy, Pandas, MatplotLib, Seaborn
